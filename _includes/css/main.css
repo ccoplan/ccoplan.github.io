@@ -462,6 +462,7 @@ footer .footer-below {
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+    border-radius: 10px !important;
 }
 
 /* Fix modal mouse wheel issues */
