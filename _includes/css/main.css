@@ -74,7 +74,7 @@ hr.star-white {
 
 hr.star-white:after {
     color: #ffffff;
-    background-color: #ffffff;
+    background-color: #{{ site.color.secondary }};
 }
 
 hr.star-primary {
