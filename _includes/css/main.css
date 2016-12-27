@@ -186,7 +186,7 @@ section.success {
 
 #services {
     color: #fff;
-    background: #ffffff;
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
