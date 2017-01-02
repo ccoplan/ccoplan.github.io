@@ -7,6 +7,6 @@ alt: image-alt
 client: LPI
 project-date: Ongoing
 category: Grantwriting
-description: Coplan Consulting has supported LPI in its development efforts through ongoing grantwriting across various programs, as well as ensuring timely reporting and follow-up on grants.
+description: Coplan Consulting has supported Leadership Pittsburgh, Inc. in its development efforts through ongoing grantwriting across various programs, as well as ensuring timely reporting and follow-up on grants.
 
 ---
