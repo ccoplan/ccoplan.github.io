@@ -48,7 +48,7 @@ address:
   - line: Bethel Park PA  15102
 
 # Credits content
-credits: 'Website designed by Aaron Coplan'
+credits: 'Website designed by <a href="http://aaroncoplan.github.io">Aaron Coplan</a>'
 
 # Build settings
 markdown: kramdown
