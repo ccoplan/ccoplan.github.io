@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
+project-date: 2014-2015
 client: Heritage Community Initiatives
 category:  Grantwriting/Research/Development Strategy
 description: Provided a full array of development assistance, including prospect research, development strategy, and grantwriting.
