@@ -5,8 +5,7 @@ date: 2014-07-17
 img: cake.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Projects have included grantwriting and other writing needs.
-
+client: United Way of Southwestern PA
+category: Grantwriting and Research/Studies
+description: As a steady client, Coplan Consulting has provided the United Way with several services comprising of grantwriting projects across multiple programs including local, national, and federal applications, as well as strategic planning services and an external scan for a major initiative.
 ---
