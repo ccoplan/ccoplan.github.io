@@ -4,9 +4,11 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: 2006-2007
-client: YouthWorks, Inc.
-category: Grantwriting
-description: Revised curriculum of core program, as well as provided grantwriting for two initiatives which secured $130,000 in state funding as well as $197,201 in City of Pittsburgh funding.
+project-date: 2008
+client: Mentoring Partnership
+category: Research
+description: Reviewed and analyzed ten nationally produced research briefs and presented findings to an audience of mentoring professionals.  Also conducted a small-scale national survey of similar mentoring agencies to determine best use for dissemination of materials and research.
+
+
 
 ---
