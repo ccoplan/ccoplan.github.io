@@ -4,7 +4,7 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
+project-date: 2012, 2013, 2016
 client: Forbes Funds
 category: Grantwriting
 description:  Projects have included grantwriting and other writing needs.
