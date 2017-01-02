@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2006-2007
 client: Youthworks, Inc.
 category: Research/Grantwriting
-description: Revised curriculum of core program, as well as provided grantwriting for two initiatives which secured $130,000 in state funding as well as $197,201 in City of Pittsburgh funding.
+description: Revised curriculum of core program, as well as provided grantwriting for two separate initiatives that secured $130,000 in state funding and $197,201 in City of Pittsburgh funding, respectively.
 
 ---
