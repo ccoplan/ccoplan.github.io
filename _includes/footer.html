@@ -12,14 +12,12 @@
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                            </li>
+                        <h3>Reach Out</h3>
+			  <p>
+                            {% for info in site.contact-info %}
+				{{ info.line }} <br/>
 		                    {% endfor %}
-                        </ul>
+			  </p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
