@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: youthworks-logo.png
 alt: image-alt
 project-date: 2006-2007
 client: Youthworks, Inc.

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: heritage-community-initiative-logo.png
 alt: image-alt
 project-date: 2014-2015
 client: Heritage Community Initiatives
