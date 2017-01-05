@@ -1,14 +1,4 @@
 <!-- Portfolio Grid Section -->
-<style>
-  .image {
-    /*position: absolute;*/
-    /*left: 50%;*/
-    top: 50% !important;
-    transformY: translate(-50%, -50%) !important;
-  }
-
-</style>
-
 <section id="portfolio">
   <div class="container">
     <div class="row">
@@ -20,13 +10,13 @@
     <div class="row">
       {% for post in site.posts %}
       <div class="col-sm-4 portfolio-item" style="height: 300px !important;">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" style="height: 100% !important; position:relative !important;">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" style="height: 100% !important; display:flex !important; align-items:center !important; justify-content:center !important;">
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
             </div>
           </div>
-          <img style="width: 100% !important;" src="img/portfolio/{{ post.img }}" class="img-responsive image" alt="{{ post.alt }}">
+          <img style="width: 100% !important;" src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
         </a>
       </div>
       {% endfor %}
