@@ -285,8 +285,11 @@ section.success {
     background: #fff;
 }
 
-.btn:hover{
-    color: #{{ site.color.secondary }} !important; 
+.btn:hover,
+.btn:focus,
+.btn:active:
+.btn.active {
+    background-color: #{{ site.color.secondary }} !important; 
 }
 
 .floating-label-form-group {
