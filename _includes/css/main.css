@@ -285,6 +285,10 @@ section.success {
     background: #fff;
 }
 
+.btn:hover{
+    color: #{{ site.color.secondary }} !important; 
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
