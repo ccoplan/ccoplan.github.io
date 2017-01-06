@@ -289,7 +289,7 @@ section.success {
 .btn:focus,
 .btn:active:
 .btn.active {
-    background-color: #{{ site.color.secondary }} !important; 
+    background-color: #{{ site.color.primary }} !important; 
 }
 
 .floating-label-form-group {
