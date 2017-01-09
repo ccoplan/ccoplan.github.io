@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2014-07-26
 img: contact-pgh.png
 alt: image-alt
 project-date: 2009-2010

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2014-07-31
 img: lp-inc-logo.png
 alt: image-alt
 client: LPI
