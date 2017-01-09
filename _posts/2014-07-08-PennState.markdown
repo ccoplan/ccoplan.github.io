@@ -8,3 +8,4 @@ project-date: 2007
 client: Penn State Greater Allegheny
 category: Grantwriting
 description: Grantwriting for collaborative effort with an area school district.
+---
