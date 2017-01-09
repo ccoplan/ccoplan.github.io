@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2014-07-23
 img: youthworks-logo.png
 alt: image-alt
 project-date: 2006-2007
